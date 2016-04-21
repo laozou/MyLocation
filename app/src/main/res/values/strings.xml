@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="location">定位</string>
+    <string name="location_describe">确定当前的位置和周围信息</string>
+    <string name="search">路线查找</string>
+    <string name="search_descibe">查找设置公交、自驾、步行等出行路线</string>
+    <string name="start">起点：</string>
+    <string name="end">终点：</string>
+    <string name="drive">驾车</string>
+    <string name="transit">公交</string>
+    <string name="walk">步行</string>
+    <string name="bicycle">骑行</string>
+    <string name="city">城市：</string>
+</resources>
